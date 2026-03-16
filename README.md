@@ -8,3 +8,11 @@ O **IMC (Índice de Massa Corporal)** é um cálculo utilizado para avaliar se u
 Ele é obtido dividindo o **peso (kg)** pela **altura ao quadrado (m²)**. O resultado ajuda a classificar o peso em categorias como baixo peso, peso normal, sobrepeso ou obesidade.
 
 Apesar de ser um cálcula muito usado ele pode ser pouco efetivo na maioria dos casos.
+
+##Tecnologias
+
+HTML
+
+CSS
+
+JavaScript
