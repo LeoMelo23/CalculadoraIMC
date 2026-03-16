@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  font-family: "Gelasio", serif;
+  background-color: rgba(176, 167, 167, 0.988);
+}
+h1{
+    font-weight: bold;
+} 
+.Calculadora{
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    background-color: gold;
+    
+   
+   
+}
+.cabecalho{
+    background-color: gold;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 5px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 28px;
+    
+    
+}
+
+.CorpoTexto{
+    background-color: gold;
+    color: black;
+    font-size: 24px;
+    display: grid;
+    grid-template-columns: 100px 1fr ;
+    align-items: center;
+    padding: 30px;
+    height: 400px;
+}
+button{
+    width: 100%;
+    height: 60px;
+    font-weight: bold;
+    font-size: 26px;
+    background-color: black;
+    color: gold;
+    box-shadow: 0px 0px 7px black;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+label{
+    font-weight: bold;
+   
+}
+
+input{
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    height: 40px;
+    box-shadow: 0px 0px 7px black;
+    font-size: 20px;
+
+}
+
+.res{
+   width: 330px;
+   height: 200px;
+   background-color: black;
+   margin: auto;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px black;
+   color: white;
+   font-size: 24px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
