@@ -9,6 +9,8 @@ Ele é obtido dividindo o **peso (kg)** pela **altura ao quadrado (m²)**. O res
 
 Apesar de ser um cálcula muito usado ele pode ser pouco efetivo na maioria dos casos.
 
+<a href="https://leomelo23.github.io/CalculadoraIMC/">Clique aqui para acessar a calculadora
+
 ## Tecnologias
 
 HTML
